@@ -45,21 +45,36 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "shadowsocks",
+      "protocol": "vmess",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "mf01.xmss.vip",
-            "method": "chacha20-ietf-poly1305",
-            "ota": false,
-            "password": "35b0f578-8961-4a2b-99a1-db9555e522e4",
-            "port": 18888,
-            "level": 1
+            "address": "els200.jslist.tk",
+            "port": 8443,
+            "users": [
+              {
+                "id": "e30cfa80-bc2c-43df-e808-97876aee77e2",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp"
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "els200.jslist.tk"
+        },
+        "wsSettings": {
+          "path": "/wo.php",
+          "headers": {
+            "Host": "els200.jslist.tk"
+          }
+        }
       },
       "mux": {
         "enabled": false,
