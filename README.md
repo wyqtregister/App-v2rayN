@@ -1,6 +1,6 @@
 # Project X
 
-[Project X](https://github.com/XTLS) originates from XTLS protocol, provides a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core) and [Xray-flutter](https://github.com/XTLS/Xray-flutter).
+[Project X](https://github.com/XTLS) originates from XTLS protocol, provides a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core).
 
 ## License
 
@@ -13,7 +13,6 @@
   - [Xray-script](https://github.com/kirin10000/Xray-script)
 - Docker
   - [teddysun/xray](https://hub.docker.com/r/teddysun/xray)
-  - Xray-docker
 - One Click
   - [ProxySU](https://github.com/proxysu/ProxySU)
   - [v2ray-agent](https://github.com/mack-a/v2ray-agent)
@@ -43,16 +42,17 @@
   - [luci-app-xray](https://github.com/yichya/luci-app-xray) ([openwrt-xray](https://github.com/yichya/openwrt-xray))
 - Windows
   - [v2rayN](https://github.com/2dust/v2rayN)
-  - [Qv2ray](https://github.com/Qv2ray/Qv2ray)  (This project had been archived and currently inactive)
-  - [Netch (NetFilter & TUN/TAP)](https://github.com/NetchX/Netch)
+  - [Qv2ray](https://github.com/Qv2ray/Qv2ray) (This project had been archived and currently inactive)
+  - [Netch (NetFilter & TUN/TAP)](https://github.com/NetchX/Netch) (This project had been archived and currently inactive)
 - Android
   - [v2rayNG](https://github.com/2dust/v2rayNG)
-  - [AnXray](https://github.com/XTLS/AnXray)
   - [Kitsunebi](https://github.com/rurirei/Kitsunebi/tree/release_xtls)
 - iOS & macOS (with M1 chip)
   - [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+  - [Stash](https://apps.apple.com/app/stash/id1596063349)
 - macOS (Intel chip & M1 chip)
   - [Qv2ray](https://github.com/Qv2ray/Qv2ray) (This project had been archived and currently inactive)
+  - [V2RayXS](https://github.com/tzmax/V2RayXS)
 
 ## Credits
 
@@ -61,13 +61,17 @@ This repo relies on the following third-party projects:
 - Special thanks:
   - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
 - In production:
+  - [ghodss/yaml](https://github.com/ghodss/yaml)
   - [gorilla/websocket](https://github.com/gorilla/websocket)
   - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go)
+  - [pelletier/go-toml](https://github.com/pelletier/go-toml)
   - [pires/go-proxyproto](https://github.com/pires/go-proxyproto)
+  - [refraction-networking/utls](https://github.com/refraction-networking/utls)
   - [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter)
   - [google/starlark-go](https://github.com/google/starlark-go)
 - For testing only:
   - [miekg/dns](https://github.com/miekg/dns)
+  - [stretchr/testify](https://github.com/stretchr/testify)
   - [h12w/socks](https://github.com/h12w/socks)
 
 ## Compilation
