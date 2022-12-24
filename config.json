@@ -49,11 +49,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "els200.jslist.tk",
-            "port": 8443,
+            "address": "162.159.135.42",
+            "port": 443,
             "users": [
               {
-                "id": "e30cfa80-bc2c-43df-e808-97876aee77e2",
+                "id": "12e08256-da5d-4b1c-aeca-8c973ccceef8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto"
@@ -67,12 +67,12 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "els200.jslist.tk"
+          "serverName": "gcoresg.sylu.cyou"
         },
         "wsSettings": {
-          "path": "/wo.php",
+          "path": "/Falling42gcoresgnode",
           "headers": {
-            "Host": "els200.jslist.tk"
+            "Host": "gcoresg.sylu.cyou"
           }
         }
       },

@@ -1,7 +1,7 @@
 {
   "logEnabled": false,
   "loglevel": "warning",
-  "indexId": "5105381772505424321",
+  "indexId": "4905374355531069607",
   "muxEnabled": false,
   "sysProxyType": 1,
   "enableStatistics": false,
@@ -58,8 +58,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5762953724681643829",
@@ -85,8 +84,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5383623436721678144",
@@ -112,8 +110,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5722962848522579463",
@@ -139,8 +136,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5599874171377817189",
@@ -166,8 +162,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "4645980494100350716",
@@ -193,8 +188,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "4947683631962066140",
@@ -220,8 +214,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4905374355531069607",
@@ -247,8 +240,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4820125900127708992",
@@ -274,8 +266,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4871333797719786152",
@@ -301,8 +292,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5292623229286658858",
@@ -328,8 +318,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4931660339798528523",
@@ -355,8 +344,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5157285319511814195",
@@ -382,8 +370,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5189704204552034307",
@@ -409,8 +396,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5673732331476279403",
@@ -436,8 +422,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4932564843387403807",
@@ -463,8 +448,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5686534550149247922",
@@ -490,8 +474,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5498965153163463173",
@@ -517,8 +500,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4653250434462720549",
@@ -544,8 +526,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5478323165674041406",
@@ -571,8 +552,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5079364514489683243",
@@ -598,8 +578,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5170098427823777406",
@@ -625,8 +604,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5494880824735937899",
@@ -652,8 +630,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5276055702264946825",
@@ -679,8 +656,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4942614917897463083",
@@ -706,8 +682,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4713428729777787402",
@@ -733,8 +708,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5644044453473522061",
@@ -760,8 +734,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4680712767615170179",
@@ -787,8 +760,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5303132321333704005",
@@ -814,8 +786,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5545935024653212567",
@@ -841,8 +812,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4814859622846913299",
@@ -868,8 +838,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5442728565183722837",
@@ -895,8 +864,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5690294225519321558",
@@ -922,8 +890,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4677221210384235014",
@@ -949,8 +916,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5671230298578501720",
@@ -976,8 +942,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4624389850501077481",
@@ -1003,8 +968,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "4968135573803418631",
@@ -1030,8 +994,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5545651503438215987",
@@ -1057,8 +1020,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5576582169608969691",
@@ -1084,8 +1046,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4972841773656886437",
@@ -1111,8 +1072,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5309520219287028755",
@@ -1138,8 +1098,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5105381772505424321",
@@ -1165,8 +1124,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "5315008292066982649",
@@ -1192,8 +1150,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5618896270917803319",
@@ -1219,8 +1176,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5537369474506137446",
@@ -1246,8 +1202,7 @@
       "alpn": [],
       "groupId": "有效服务器",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": true
+      "preSocksPort": 0
     },
     {
       "indexId": "4951076697000165816",
@@ -1273,8 +1228,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5191238708471394031",
@@ -1300,8 +1254,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5020971862482607216",
@@ -1327,8 +1280,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4972090260839022102",
@@ -1354,8 +1306,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5053423462376058316",
@@ -1381,8 +1332,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5228368877814887878",
@@ -1408,8 +1358,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5616026795428279898",
@@ -1435,8 +1384,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5506571414227137964",
@@ -1462,8 +1410,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5181871750362137164",
@@ -1489,8 +1436,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5057314761865763780",
@@ -1516,8 +1462,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5172160770209851776",
@@ -1543,8 +1488,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5023085981988442414",
@@ -1570,8 +1514,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4662758382478130178",
@@ -1597,8 +1540,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5380227159005713356",
@@ -1624,8 +1566,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4904037543182448039",
@@ -1651,8 +1592,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4934672181846286476",
@@ -1678,8 +1618,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5078006508139173167",
@@ -1705,8 +1644,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5177076863487336339",
@@ -1732,8 +1670,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5296223438561365634",
@@ -1759,8 +1696,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5640505162667486005",
@@ -1786,8 +1722,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5241145621590386219",
@@ -1813,8 +1748,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5371586510768587126",
@@ -1840,8 +1774,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5295318606651918333",
@@ -1867,8 +1800,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4634862116758897759",
@@ -1894,8 +1826,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5161383163996515902",
@@ -1921,8 +1852,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5758765533325327498",
@@ -1948,8 +1878,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5574515465643825798",
@@ -1975,8 +1904,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4977885828576759445",
@@ -2002,8 +1930,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4755960660706428624",
@@ -2029,8 +1956,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5540428913171967632",
@@ -2056,8 +1982,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4831845756067715817",
@@ -2083,8 +2008,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5440295277908790327",
@@ -2110,8 +2034,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5501162899529769391",
@@ -2137,8 +2060,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5568247673773269502",
@@ -2164,8 +2086,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5746444900801331219",
@@ -2191,8 +2112,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5508855970229799114",
@@ -2218,8 +2138,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4979494165061366865",
@@ -2245,8 +2164,7 @@
       "alpn": null,
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5418115299150359044",
@@ -2272,8 +2190,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4915651833412788781",
@@ -2299,8 +2216,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4986898693396326058",
@@ -2326,8 +2242,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5589903717616102446",
@@ -2353,8 +2268,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5125047121584123616",
@@ -2380,8 +2294,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5119396214130970997",
@@ -2407,8 +2320,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5003132730016531986",
@@ -2434,8 +2346,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4763407100322105381",
@@ -2461,8 +2372,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4939974378906768693",
@@ -2488,8 +2398,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5181950541889762776",
@@ -2515,8 +2424,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5351725453335845912",
@@ -2542,8 +2450,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5719852874868737061",
@@ -2569,8 +2476,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5734950421940679397",
@@ -2596,8 +2502,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5042118257139716575",
@@ -2623,8 +2528,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5257837790386435716",
@@ -2650,8 +2554,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4953199539331521374",
@@ -2677,8 +2580,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4737900999744957747",
@@ -2704,8 +2606,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "5517632761325709099",
@@ -2731,8 +2632,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     },
     {
       "indexId": "4660711274057823728",
@@ -2758,8 +2658,7 @@
       "alpn": [],
       "groupId": "",
       "coreType": null,
-      "preSocksPort": 0,
-      "available": false
+      "preSocksPort": 0
     }
   ],
   "kcpItem": {

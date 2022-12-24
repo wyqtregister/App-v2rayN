@@ -1004,7 +1004,7 @@
       "groupId": "",
       "coreType": null,
       "preSocksPort": 0,
-      "available": true
+      "available": false
     },
     {
       "indexId": "4968135573803418631",
@@ -1166,7 +1166,7 @@
       "groupId": "",
       "coreType": null,
       "preSocksPort": 0,
-      "available": true
+      "available": false
     },
     {
       "indexId": "5315008292066982649",
